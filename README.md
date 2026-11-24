@@ -2,8 +2,7 @@
 
 **Junior data analyst · SQL · Power BI**
 
-[![LinkedIn]()](jana-kutkut-a2a208340)
-
+https://www.linkedin.com/in/jana-kutkut-a2a208340
 
 ## About me
 
