@@ -1,6 +1,6 @@
-# Jana Kutkut
+# Jana Emad Kutkut
 
-**Junior data analyst · SQL · Power BI**
+**Junior App Developer & Data Analyst · SQL · Power BI**
 
 https://www.linkedin.com/in/jana-kutkut-a2a208340
 
@@ -12,8 +12,8 @@ I am looking for a junior analyst role in retail or health care, building report
 
 ## My work
 
-- **Late deliveries**: I compared two months of delivery times for a small online shop and found that four out of ten late parcels left the warehouse on time.
-- **Coming next**: a Power BI report on the same deliveries, one page for each courier.
+- **---**:
+
 
 ## Skills
 - **SQL:** joins, CTEs, window functions and views, in BigQuery
@@ -22,8 +22,8 @@ I am looking for a junior analyst role in retail or health care, building report
 
 ## Education and training
 
-- **2026** Data Science and Analytics, ASAC, Luminus Technical University College
-- **2021** BSc computer Information System
+- **2026** Data Science and Analytics, ASAC, Luminus Technical University College intern
+- **2025** BSc computer Information System Graduate
 
 ## Languages
 
