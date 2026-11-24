@@ -3,7 +3,7 @@
 **Junior data analyst · SQL · Power BI**
 
 [![LinkedIn]()](jana-kutkut-a2a208340))](https://www.linkedin.com)
-[![My page](https://img.shields.io/badge/My_page-visit-green)](https://pages.github.com)
+
 
 ## About me
 
